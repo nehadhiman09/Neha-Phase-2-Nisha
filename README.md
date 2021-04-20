@@ -5,3 +5,4 @@
 A small Leaner's Academy demo project in JAVA
 # Using the application
 Home displays the application name (Leaner's Academy) and one option - Login
+
