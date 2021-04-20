@@ -13,7 +13,7 @@ Home displays the application name (Leaner's Academy) and one option - Login
 
 
 ### Academy -
-Academy dashboard is accessed with a preset username and password
+Academy dashboard is accessed with a present username and password
 
 ### Technologies
 Frontend - HTML
